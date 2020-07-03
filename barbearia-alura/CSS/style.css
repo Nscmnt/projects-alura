@@ -1,5 +1,14 @@
 body{
     font-family: 'Montserrat', sans-serif;
+
+    
+}
+
+.content{
+    width: 90%;
+    height: auto;
+
+    margin: 0 auto;
 }
 
 header{
@@ -183,7 +192,7 @@ td:first-child{
     padding: 3em 0;
     background-color: #fefefe;
 
-    width: 940px;
+    width: auto;
     margin: 0 auto;
 
 }
