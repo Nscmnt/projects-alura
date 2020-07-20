@@ -8,8 +8,9 @@ cliente.cpf = "386.531.878-98"
 
 console.log(cliente)
 
-clienteJorge = new ContaCorrente();
+const clienteJorge = new ContaCorrente();
+
 clienteJorge.depositar(200);
 
-clienteJorge.sacar(500)
+clienteJorge.sacar(100)
 

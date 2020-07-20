@@ -12,6 +12,8 @@ export class ContaCorrente {
             
         }
         this._saldo -= valor;
+        console.log("Valor sacado R$"+valor)
+        console.log("Saldo atual R$"+ this._saldo)
     }
 
     depositar(valor){
@@ -19,7 +21,7 @@ export class ContaCorrente {
 
         this._saldo += valor;
         console.log("Foi depositado o valor R$ " + valor)
-        console.log("Valor invalido")
+        
         
     }
 }
