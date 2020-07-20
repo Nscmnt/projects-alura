@@ -1,0 +1,19 @@
+{
+  "name": "projects-alura",
+  "version": "1.0.0",
+  "description": "Repositório criado para armazenar projetos criados durante cursos da Plataforma Alura.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nscmnt/projects-alura.git"
+  },
+  "author": "\"Nascimento\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nscmnt/projects-alura/issues"
+  },
+  "homepage": "https://github.com/Nscmnt/projects-alura#readme"
+}
