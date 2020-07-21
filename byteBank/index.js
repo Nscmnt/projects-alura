@@ -3,16 +3,30 @@ import {ContaCorrente} from "./ContaCorrente.js"
 
 // Criando classes, cria-se moldes para instancia de objetos no sistema, nas classes se define atributos (características) e métodos ( comportamentos). 
 
-const cliente = new Cliente();
+const cliente1 = new Cliente();
 
-cliente.nome = "Jorge"
-cliente.cpf = "386.555.878-56"
+cliente1.nome = "Jorge"
+cliente1.cpf = "386.555.878-56"
 
-console.log(cliente)
+const cliente2 = new Cliente();
+
+cliente2.nome = "Ana"
+cliente2.cpf = "333.444.555.87"
+
 
 const clienteJorge = new ContaCorrente();
+clienteJorge.cliente = cliente1;
 
-clienteJorge.depositar(200);
+const conta2 = new ContaCorrente();
 
-clienteJorge.sacar(100)
+conta2.cliente = cliente2;
+
+
+clienteJorge.depositar(500);
+
+console.log(clienteJorge);
+
+clienteJorge.transferir(200, conta2)
+
+console.log(clienteJorge, conta2);
 
