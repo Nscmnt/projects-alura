@@ -8,3 +8,7 @@
 
  * [Demostração da interface](https://www.youtube.com/watch?v=udSp6JD6xA8)
 
+ ## 🏧 ByteBank
+
+ Curso para introdução ao conceito de Orientação a Objetos em JavaScript, criando classes para representar Clientes e Conta Corrente, utilizando conceitos basicos de Classes, atributos e metodos, acessores getters e setters, encapsulamento...
+
