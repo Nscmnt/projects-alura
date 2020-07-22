@@ -19,7 +19,7 @@ clienteJorge.cliente = cliente1;
 
 const conta2 = new ContaCorrente();
 
-conta2.cliente = cliente2;
+conta2.cliente = 0;
 
 
 clienteJorge.depositar(500);

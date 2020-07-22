@@ -5,5 +5,6 @@
  ## 🧔 Barbearia Alura
 
  Desenvolvido com **HTML5** e **CSS3** básico, um site de Barbearia onde mostra os serviços disponiveis, assim como horário de funcionamento, localização e um formulário de contato.
-    
+
+ * [Demostração da interface](https://www.youtube.com/watch?v=udSp6JD6xA8)
 
