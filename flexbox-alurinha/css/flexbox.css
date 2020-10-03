@@ -1,7 +1,11 @@
+:root{
+    --cor-principal: #000;
+}
+
 .cabecalhoPrincipal .container{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-between;    
 }
 
 .cabecalhoPrincipal-nav{
