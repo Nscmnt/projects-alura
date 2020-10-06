@@ -1,6 +1,6 @@
 <h1 align = "center"> 📋Projetos Alura</h1>
 
- <h4 align = "center">Repositório criado para armazenar projetos desenvolvidos durante cursos da Plataforma Alura.</h4>
+ <h4 align = "center">Repositório criado para armazenar projetos desenvolvidos durante cursos de front end da Plataforma Alura.</h4>
 
  ## 🧔 Barbearia Alura
 
@@ -16,4 +16,16 @@
 
  Curso para desenvolver os conceitos Flexbox , criando uma página responsiva de um layout so site alurinha, site de cursos online.
  <img src="https://ik.imagekit.io/Nscmnt/Alurinha_-_Cursos_online_AIUD0ebkd.png" align = "center">
+
+ ## 🎮 Alura Store
+
+ Curso para desenvolver os conceitos de Grid layout, criando uma interface de uma loja de aplicativo, organizado em grades, utilizando as funcionalidade do grid layout CSS.
+
+ ## 🔊 Portal News
+
+ Curso para desenvolver os conceitos de responsividade, criado uma página de notícia que se adapta a tamanhso de telas diferentes.
+
+ ## 🖥 CSS - BEM
+
+ Curso para desenvolver os conceitos de arquitetura e organização de CSS utilizando os principios da arquitetura BEM e o Atomic Designer.
 
